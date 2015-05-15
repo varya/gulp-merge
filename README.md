@@ -7,7 +7,7 @@ gulp-merge v0.1.0 [![Build Status](https://travis-ci.org/teambition/gulp-merge.s
 Install with [npm](https://npmjs.org/package/gulp-merge)
 
 ```
-npm install --save-dev gulp-sequence
+npm install --save-dev gulp-merge
 ```
 
 
