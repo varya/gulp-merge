@@ -2,7 +2,8 @@
   "name": "gulp-merge",
   "description": "Merge multiple streams into one stream in order.",
   "authors": [
-    "Yan Qing <admin@zensh.com>"
+    "Yan Qing <admin@zensh.com>",
+    "Varya Stepanova <mail@varya.me>"
   ],
   "version": "0.1.0",
   "main": "index.js",
